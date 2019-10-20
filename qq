@@ -1,0 +1,1 @@
+ssh -i "awspswd.pem" ec2-user@ec2-18-141-13-233.ap-southeast-1.compute.amazonaws.com
